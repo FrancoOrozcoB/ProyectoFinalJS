@@ -1,0 +1,32 @@
+[
+    {
+    "titulo": "Almohadon",
+    "precio": 35,
+    "imagenSrc": "../img/almohadon1.jpg",
+    "cantidad": 0
+    },
+    {
+    "titulo": "Cortina",
+    "precio": 40,
+    "imagenSrc": "../img/cortina2.jpg",
+    "cantidad": 0
+    },
+    {
+    "titulo": "Alfombra",
+    "precio": 30,
+    "imagenSrc": "../img/alfombra5.jpg",
+    "cantidad": 0
+    },
+    {
+    "titulo": "Manta",
+    "precio": 45,
+    "imagenSrc": "../img/manta5.jpg",
+    "cantidad": 0
+    },
+    {
+    "titulo": "Camiseta",
+    "precio": 90,
+    "imagenSrc": "../img/barca4.jpg",
+    "cantidad": 0
+    }
+]
